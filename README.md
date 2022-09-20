@@ -4,6 +4,8 @@ Feature Engineering on House Prices dataset with 80+ Features
 ## Feature Engineering Definition
 Feature engineering refers to the process of using domain knowledge to select and transform the most relevant variables from raw data when creating a predictive model using machine learning or statistical modeling. The goal of feature engineering and selection is to improve the performance of machine learning (ML) algorithms.
 
+![image](https://user-images.githubusercontent.com/99672298/191180008-3de37536-3b51-40a2-9f0c-d7de766653dc.png)
+
 ## What is Feature Engineering?
 The feature engineering pipeline is the preprocessing steps that transform raw data into features that can be used in machine learning algorithms, such as predictive models. Predictive models consist of an outcome variable and predictor variables, and it is during the feature engineering process that the most useful predictor variables are created and selected for the predictive model. Automated feature engineering has been available in some machine learning software since 2016. Feature engineering in ML consists of four main steps: Feature Creation, Transformations, Feature Extraction, and Feature Selection.
 
